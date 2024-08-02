@@ -1,6 +1,6 @@
 {
-  "name": "shareds",
-  "version": "0.1.0",
+  "name": "ehto",
+  "version": "0.1.1",
   "description": "A simple React store",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -12,6 +12,7 @@
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
   },
   "files": [
-    "lib/**/*"
+    "lib/**/*",
+    "README.md"
   ]
 }
