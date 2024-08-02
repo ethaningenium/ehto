@@ -1,0 +1,17 @@
+{
+  "name": "shareds",
+  "version": "1.0.0",
+  "description": "A simple React store",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
